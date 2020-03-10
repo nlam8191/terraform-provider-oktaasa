@@ -1,3 +1,6 @@
+⚠️Not supported ⚠️
+This provider is no longer supported. Instead, please use a certified version of this provider at https://github.com/terraform-providers/terraform-provider-oktaasa.
+
 Terraform Provider for Okta's Advanced Server Access (Okta's ASA)
 =========================
 
